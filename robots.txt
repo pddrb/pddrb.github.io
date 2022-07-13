@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://pddrb.by/sitemap.xml

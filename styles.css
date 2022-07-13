@@ -1,0 +1,54 @@
+body{
+	background-color: azure;
+	color: black;
+}
+
+p.sign{
+	background-color: beige;
+}
+
+p.comment, ul.comment{
+	background-color: beige;
+}
+
+p.photo{
+	background-color: honeydew;
+}
+
+p.law{
+	background-color: hotpink;
+}
+
+p.info{
+	background-color: cadetblue;
+}
+p.rules{
+	border-style: groove;
+}
+
+h1{
+	color: black;
+}
+
+table{
+	border-style: solid;
+	border-color: black;
+}
+
+td{
+	border-style: solid;
+	border-color: black;
+}
+
+img{
+	max-width: 100%;
+	width:480px;
+    display: block;
+	border: "0";
+	vspace: "5";
+	hspace: "5"
+}
+
+blockquote{
+	border-style: solid;
+}
